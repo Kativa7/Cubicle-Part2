@@ -1,2 +1,3 @@
 # Cubicle-Part2
-MongoDB and Mongoose
+MongoDB and Mongoose 
+This is a SoftUni school project.  
